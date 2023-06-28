@@ -45,3 +45,9 @@
 .prose img {
     @apply m-0;
 }
+
+h4, p {
+    display: inline;
+    margin: 0;
+    padding: 0;
+  }
