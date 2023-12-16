@@ -1,0 +1,13 @@
+Information Collection:
+The bot reads user messages to fix social media embeds. No personal information is collected or stored during this process.
+Data Storage:
+The bot does not permanently store any user data. It processes messages in real-time and does not retain information beyond the duration of the message processing.
+Security:
+We take reasonable measures to protect the data processed by the bot, but we cannot guarantee the security of information transmitted over Discord.
+Third-Party Services:
+The bot may interact with third-party services to perform its functions. Users are subject to the privacy policies of these services when using the bot.
+Changes to Privacy Policy:
+We may update our Privacy Policy from time to time. Users are advised to review this policy periodically for any changes.
+Contact Information:
+
+For any questions or concerns regarding the Terms of Service or Privacy Policy, you can contact us at keto@stkc.win.
